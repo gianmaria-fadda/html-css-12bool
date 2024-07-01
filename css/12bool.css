@@ -1,0 +1,62 @@
+
+/*
+    GENERAL
+*/
+.container {
+    max-width: 1170px;
+    margin: 0 auto;
+}
+
+.my-row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.my-col-1 {
+    width: calc((100% / 12) * 1);
+}
+
+.my-col-2 {
+    width: calc((100% / 12) * 2);
+}
+
+.my-col-3 {
+    width: calc((100% / 12) * 3);
+}
+
+.my-col-4 {
+    width: calc((100% / 12) * 4);
+}
+
+.my-col-5 {
+    width: calc((100% / 12) * 5);
+}
+
+.my-col-6 {
+    width: calc((100% / 12) * 6);
+}
+
+.my-col-7 {
+    width: calc((100% / 12) * 7);
+}
+
+.my-col-8 {
+    width: calc((100% / 12) * 8);
+}
+
+.my-col-9 {
+    width: calc((100% / 12) * 9);
+}
+
+.my-col-10 {
+    width: calc((100% / 12) * 10);
+}
+
+.my-col-11 {
+    width: calc((100% / 12) * 11);
+}
+
+.my-col-12 {
+    width: calc((100% / 12) * 12);
+}
+

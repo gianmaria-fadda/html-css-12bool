@@ -10,12 +10,3 @@
 html {
     font-family: Arial, Helvetica, sans-serif ;
 }
-
-/*
-    GENERAL
-*/
-.container {
-    max-width: 1000px;
-    margin: 0 auto;
-}
-
